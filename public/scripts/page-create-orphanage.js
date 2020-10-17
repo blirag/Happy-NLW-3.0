@@ -83,3 +83,10 @@ function toggleSelect(event) {
 
     input.value = button.dataset.value
 }
+
+// function validate(event) {
+//     // validar se lat e lng estão preenchidos
+
+//     event.preventDefault()
+//     // solta um alert se n estiver preenchido
+// }
